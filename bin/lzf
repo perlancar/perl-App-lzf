@@ -125,7 +125,9 @@ Usage:
 
 =head1 DESCRIPTION
 
-This is a simple command-line front-end for Perl modules L<Compress::LZF>.
+This is a simple command-line front-end for Perl modules L<Compress::LZF>. LZF
+is one of the algorithms where there are currently pure-Perl implementation of
+the decompressor on CPAN. So it is useful in some cases.
 
 
 =head1 OPTIONS
