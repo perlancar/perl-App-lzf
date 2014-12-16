@@ -114,7 +114,7 @@ parse_cmdline();
 run();
 
 # ABSTRACT: Compress/decompress using LZF algorithm
-# PODNAME: lzf
+# PODNAME:
 
 =head1 SYNOPSIS
 
